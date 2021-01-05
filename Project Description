@@ -62,15 +62,6 @@ The final check takes cover of the case that game will be draw and all the squar
  If the game is over we check for the game that someone is win the game Boolean which we set at the last part, if some has won then it will be last one or last player which is moved.
  
 
-OUTPUT OF PROGRAM
-
-
-
-
-
-
-
-
 
 SOURCE CODE
 #include <iostream.h>
